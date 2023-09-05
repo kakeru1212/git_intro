@@ -1,0 +1,13 @@
+＜ローカル＞
+git init	//ローカルリポジトリの作成
+git add		//ステージングエリアに追加（コミットの予約）
+git commit -m "コメント"	//コミット（変更の記録をとる）
+
+git status	//作業中のブランチの状態を確認
+git log		
+
+＜リモート＞
+[gtihub] New repository
+
+git remote add <リモートリポジトリ名> <リモートリポジトリURL>	//リモートリポジトリの追加（ローカルと紐づけ）
+→ git remote add origin https://<ユーザー名>:<アクセストークン>@github.com/kakeru1212/intro.git
