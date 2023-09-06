@@ -4,7 +4,7 @@ git add		//ステージングエリアに追加（コミットの予約）
 git commit -m "コメント"	//コミット（変更の記録をとる）
 
 git status	//作業中のブランチの状態を確認
-git log		
+git log		  //コミット履歴の確認
 
 ＜リモート＞
 [github] New repository
